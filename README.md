@@ -12,11 +12,6 @@ Currently building an AI productivity platform with a plugin-based architecture 
 - PHP
 - MySQL
 
-## 📚 Currently Learning
-- SOC & Cybersecurity
-- Operating Systems
-- AI-powered Applications
-
 ## 🌱 Goals
 - Build real-world software projects
 - Contribute to open source
