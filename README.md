@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Lithish 👋
 
-<!--
-**Fury-Dot/Fury-Dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student Developer  
+🚀 Interested in AI, Cybersecurity, and System Design  
 
-Here are some ideas to get you started:
+Currently building an AI productivity platform with a plugin-based architecture that works across applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- Java
+- JavaScript
+- PHP
+- MySQL
+
+## 📚 Currently Learning
+- SOC & Cybersecurity
+- Operating Systems
+- AI-powered Applications
+
+## 🌱 Goals
+- Build real-world software projects
+- Contribute to open source
+- Become a SOC Analyst
+
+📫 Connect with me:
+- Email: -----
+- LinkedIn: ----
